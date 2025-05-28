@@ -4,7 +4,7 @@
     <div class="flex w-2/3  ml-80">
         <div class="flex justify-between w-7/10">
             <p class="mr-3">melaOne</p>
-<input type="text" name="" id="" class="bg-white w-15/10 rounded-md" >
+<input type="text" name="" id="" class="bg-white w-15/10 rounded-md focus:outline-none" >
 <p class="ml-3">Login</p>
         </div>
         <div class="ml-10">
@@ -29,7 +29,7 @@
     melaOne
 </div>
 <div>
-    <input type="text " class="bg-white rounded-md">
+    <input type="text " class="bg-white rounded-md focus:outline-none">
 </div>
     </div>
     <div class="flex justify-between mr-10 ml-3 mt-3">
