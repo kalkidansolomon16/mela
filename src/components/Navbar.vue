@@ -38,7 +38,7 @@
             <i class="fa-solid fa-bars"></i>
         </div>
 <div v-if="showLists">
-    
+    //
        <div class=" justify-between w-1/4  mt-10 -ml-10 fixed z-20 font-bold text-sm ">
         <div class="mt-2 bg-blue-400 px-3">Model</div>
         <div class="mt-2 bg-blue-400 px-3">Material</div>
