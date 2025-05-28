@@ -8,7 +8,7 @@
 <img src="/furmiture2.avif" alt="" class="mr-4 w-7/8">
 <img src="/furniture3.jpg" alt="" class="w-7/8">
     </div>
-    <div class="mt-30 ml-90">
+    <div class="mt-30 ml-100">
         <h1 class="text-3xl font-bold">Designed for creators, <br> built with clarity . </h1>
         <p class="font-light text-xs mt-10">3D modeling shouldn't be a guessing game. <br> Every model here comes packed with verified specs, <br> previews, and use-case info </p>
         <div class="flex mt-10">
@@ -25,7 +25,7 @@
 </div>
     </div>
   </footer>
-<hr>
+<hr class="text-white mt-4">
     </div>
       <div class="lg:hidden md:hidden sm:block z-0">
         <Navbar/>
